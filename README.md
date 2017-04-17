@@ -1,9 +1,11 @@
 # api documentation for  [velocity-animate (v1.5.0)](http://velocityjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-velocity-animate.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-velocity-animate) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-velocity-animate.svg)](https://travis-ci.org/npmdoc/node-npmdoc-velocity-animate)
 #### Accelerated JavaScript animation.
 
-[![NPM](https://nodei.co/npm/velocity-animate.png?downloads=true)](https://www.npmjs.com/package/velocity-animate)
+[![NPM](https://nodei.co/npm/velocity-animate.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/velocity-animate)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-velocity-animate/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-velocity-animate_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-velocity-animate/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-velocity-animate/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-velocity-animate/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-velocity-animate/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-velocity-animate/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-velocity-animate/build/screenCapture.npmPackageListing.svg)
 
@@ -63,17 +65,14 @@
     "main": "velocity.js",
     "maintainers": [
         {
-            "name": "julianshapiro",
-            "email": "info@julianshapiro.com"
+            "name": "julianshapiro"
         },
         {
-            "name": "kvirani",
-            "email": "kvirani@gmail.com"
+            "name": "kvirani"
         }
     ],
     "name": "velocity-animate",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/julianshapiro/velocity.git"
@@ -82,16 +81,6 @@
     "version": "1.5.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module velocity-animate](#apidoc.module.velocity-animate)
-
-
-
-# <a name="apidoc.module.velocity-animate"></a>[module velocity-animate](#apidoc.module.velocity-animate)
 
 
 
