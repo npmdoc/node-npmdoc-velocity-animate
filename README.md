@@ -1,4 +1,7 @@
-# api documentation for  [velocity-animate (v1.5.0)](http://velocityjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-velocity-animate.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-velocity-animate) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-velocity-animate.svg)](https://travis-ci.org/npmdoc/node-npmdoc-velocity-animate)
+# npmdoc-velocity-animate
+
+#### basic api documentation for  [velocity-animate (v1.5.0)](http://velocityjs.org)  [![npm package](https://img.shields.io/npm/v/npmdoc-velocity-animate.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-velocity-animate) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-velocity-animate.svg)](https://travis-ci.org/npmdoc/node-npmdoc-velocity-animate)
+
 #### Accelerated JavaScript animation.
 
 [![NPM](https://nodei.co/npm/velocity-animate.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/velocity-animate)
@@ -78,7 +81,8 @@
         "url": "git+https://github.com/julianshapiro/velocity.git"
     },
     "scripts": {},
-    "version": "1.5.0"
+    "version": "1.5.0",
+    "bin": {}
 }
 ```
 
